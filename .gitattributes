@@ -1,0 +1,2 @@
+install filter=lfs diff=lfs merge=lfs -text
+C:/Users/juust/ProjectUE5/FallGuysPrototype/Build filter=lfs diff=lfs merge=lfs -text
